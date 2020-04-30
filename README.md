@@ -10,5 +10,4 @@ Features Pending:
 <ol>
   <li>Renameing of content inside the files</li>
   <li>Renameing of files and folders according to the data provided in list</li>
-  <li>Renameing of files and folders</li>
 </ol>
